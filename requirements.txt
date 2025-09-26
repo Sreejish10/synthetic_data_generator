@@ -1,0 +1,7 @@
+dspy
+pandas
+numpy
+pydantic
+black
+flake8
+ipykernel
