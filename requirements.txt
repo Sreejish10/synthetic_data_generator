@@ -1,7 +1,20 @@
-dspy
-pandas
-numpy
-pydantic
-black
-flake8
-ipykernel
+# Core libraries
+pandas>=2.0.0
+numpy>=1.25.0
+
+# DSPy framework for synthetic data generation
+dspy>=0.8.2
+
+# LLM integration
+litellm>=0.5.0
+
+# Pydantic v2 for validation
+pydantic>=2.0.0
+
+# Jupyter/IPython kernel support
+ipykernel>=6.25.0
+
+# Code formatting & linting (optional)
+black>=24.3.0
+flake8>=6.1.0
+
